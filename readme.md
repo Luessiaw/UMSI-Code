@@ -13,5 +13,6 @@
 |fig 6        | fig6.nb       | fig6.nb         |
 
 Plots that not mentioned above are made by figs.pptx. 
-All figures are arranged in figs.pptx.
+All figures are arranged in Adobe Illustrators.
+
 
