@@ -10,6 +10,8 @@
 |fig 4	c	    |	fig4c-data.py   |	fig4c.py        |
 |fig 5	a	    |	fig5.nb		    |	fig5.nb         |
 |fig 5	b	    |	fig5b.py	    |	fig5.nb         |
+|fig 6        | fig6.nb       | fig6.nb         |
 
 Plots that not mentioned above are made by figs.pptx. 
 All figures are arranged in figs.pptx.
+
